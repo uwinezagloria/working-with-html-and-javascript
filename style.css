@@ -1,0 +1,10 @@
+body{
+    .input{
+        #fnameValidation{
+color: brown;
+        }
+        #lnameValidation{
+            color: brown;
+                    }
+    }
+}
